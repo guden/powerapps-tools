@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "lodash": "^4.17.15",
-    "pcf-scripts": "~0",
+    "pcf-scripts": "~1",
     "pcf-start": "~0"
   }
 }
